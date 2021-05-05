@@ -20,8 +20,8 @@ body {
 
 /* material override */
 .mat-toolbar.mat-primary {
-  background: #343434;
-  color: #fff;
+  background: rgb(47, 179, 54);
+  color: rgb(66, 177, 84);
 }
 
 .mat-raised-button.mat-primary {
